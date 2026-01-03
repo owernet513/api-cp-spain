@@ -81,3 +81,5 @@ const SPREADSHEET_ID = 'TU_ID_DE_SPREADSHEET';
 const TAMANO_LOTE = 10;
 const NOMBRE_HOJA = 'CP';
 const MODO_DEBUG = true;
+
+Ejemplo: https://docs.google.com/spreadsheets/d/11MIBzDUhKj4F6tOV_0Y5BYGyj4htMLPKJ4cl9wpI9g0/
